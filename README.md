@@ -27,4 +27,3 @@ This project aims to build a working weather station that can measure and report
 - [Electric Imp](https://www.sparkfun.com/products/11395)
 - [Electric Imp Shield](https://www.sparkfun.com/products/12887)
 - 2x [RJ11 6-pin connectors](https://www.sparkfun.com/products/132) (for the Weather shield)
-{: .square}
