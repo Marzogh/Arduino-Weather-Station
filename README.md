@@ -7,15 +7,15 @@ This project aims to build a working weather station that can measure and report
 - Wind speed
 - Wind direction
 - Rainfall
-- Ambient light*
-- UV*
-- Lightning*
-- CO<sub>2</sub> levels*
-- SO<sub>2</sub> levels*
+- Ambient light`
+- UV`
+- Lightning`
+- CO<sub>2</sub> levels`
+- SO<sub>2</sub> levels`
 
-<small>*In future updates
+`In future updates
+
 ----------------------
-{: .border-white}
 
 ### Components
 
